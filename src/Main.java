@@ -1,8 +1,8 @@
 /*   Created by IntelliJ IDEA.
- *   Author: Kshitij Varshney (kshitijvarshne1)
- *   Date: 22-Oct-22
- *   Time: 10:17 PM
- *   File: Main.java
+ *   Author: Sanat Kumar Dubey (sanat04)
+ *   Date: 22-02-2023
+ *   Time: 23:56
+ *   File: DistinguishWord.java
  */
 
 import javax.swing.*;
